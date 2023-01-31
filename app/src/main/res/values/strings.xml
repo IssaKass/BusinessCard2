@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">John Doe</string>
+    <string name="job">Elementary School Teacher</string>
+    <string name="mobile_number">+11 (123) 444 555 666</string>
+    <string name="email">johndoe@gmail.com</string>
+    <string name="website">www.johndoeteacher.com</string>
+</resources>
